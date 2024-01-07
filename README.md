@@ -4,7 +4,7 @@
 
 Fraîchement initié au domaine de l'informatique, je compte évoluer dans le développement web.
 
-Si vous avez des questions ou des opportunités de collaboration, n'hésitez pas à me contacter !
+Si vous avez des questions ou des opportunités de collaboration, n'hésitez pas à me contacter sur [LinkedIn](https://www.linkedin.com/in/valentin-altana) !
 
 ## Projets
 
