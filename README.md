@@ -6,8 +6,6 @@ Fraîchement initié au domaine de l'informatique, je compte évoluer dans le d�
 
 Si vous avez des questions ou des opportunités de collaboration, n'hésitez pas à me contacter !
 
-Merci d'avoir visité mon profil !
-
 ## Projets
 
 [**Wallace Beats**](https://github.com/valentin-altana/Wallace-Beats) : Premier projet d'animation HTML - CSS
@@ -33,3 +31,5 @@ Merci d'avoir visité mon profil !
 ## Statistiques GitHub
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentin-altana&layout=compact)
+
+Merci d'avoir visité mon profil !
