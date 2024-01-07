@@ -1,5 +1,7 @@
 # Bienvenue sur le profil de Valentin Altana
 
+![kame-house](https://github.com/valentin-altana/valentin-altana/assets/144157026/687c5fb5-fee2-4229-8f0b-cafe284a6c90)
+
 ## À propos de moi
 
 Fraîchement initié au domaine de l'informatique, je compte évoluer dans le développement web.
