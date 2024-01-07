@@ -10,7 +10,7 @@ Minutieux, j'ai décidé de réaliser mon premier projet web entièrement en HTM
 
 Je me concentre désormais sur le JavaScript et l'algorithmique dans le but de trouver un organisme de formation et de démarrer une alternance en temps que développeur web le plus rapidement possible.
 
-Si vous avez des questions ou des opportunités de collaboration, n'hésitez pas à me contacter sur [##LinkedIn##](https://www.linkedin.com/in/valentin-altana) !
+Si vous avez des questions ou des opportunités de collaboration, n'hésitez pas à me contacter sur [**LinkedIn**](https://www.linkedin.com/in/valentin-altana) !
 
 ## Projets
 
