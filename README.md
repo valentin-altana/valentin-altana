@@ -4,6 +4,12 @@
 
 ## À propos de moi
 
+Actuellement en reconversion professionnelle, j'ai eu la chance de réaliser un stage d'administration du CMS WordPress au sein de l'entreprise MA Cyber qui m'a permis de m'initier aux métiers du web.
+
+Minutieux, j'ai décidé de réaliser mon premier projet web entièrement en HTML et CSS afin d'en comprendre les bases en profondeur.
+
+Je me concentre désormais sur le JavaScript et l'algorithmique dans le but de trouver un organisme de formation et de démarrer une alternance en temps que développeur web le plus rapidement possible.
+
 Si vous avez des questions ou des opportunités de collaboration, n'hésitez pas à me contacter sur [LinkedIn](https://www.linkedin.com/in/valentin-altana) !
 
 ## Projets
