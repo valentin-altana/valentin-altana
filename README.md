@@ -31,5 +31,3 @@ Si vous avez des questions ou des opportunités de collaboration, n'hésitez pas
 ## Statistiques GitHub
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentin-altana&layout=compact)
-
-# Merci d'avoir visité mon profil !
