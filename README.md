@@ -14,7 +14,7 @@ Si vous avez des questions ou des opportunités de collaboration, n'hésitez pas
 
 ## Projets
 
-- [**Wallace Beats**](https://valentin-altana.github.io/wallace-beats/) : Premier projet d'animation HTML - CSS
+- [**Wallace City**](https://github.com/valentin-altana/wallace-city) : Premier projet d'animation HTML - CSS
 - [**Advent of Code**](https://github.com/valentin-altana/advent-of-code) : 2023 (work in progress)
 
 ## Langages et outils
