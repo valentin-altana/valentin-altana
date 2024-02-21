@@ -2,9 +2,9 @@
 
 ## Projets
 
-- [Wallace Beats](https://github.com/valentin-altana/wallace-beats) - Site d'hébergement et d'écoute de fichiers musicaux
-- [Mon site](https://github.com/valentin-altana/mon-site) - Site portfolio
-- [Wallace City](https://github.com/valentin-altana/wallace-city) - Premier projet d'animation HTML - CSS
+- [Wallace Beats](https://github.com/valentin-altana/wallace-beats) (2024) - Site d'hébergement et d'écoute de fichiers musicaux
+- [Mon site](https://github.com/valentin-altana/mon-site) (2023) - Site portfolio
+- [Wallace City](https://github.com/valentin-altana/wallace-city) (2023) - Premier projet d'animation HTML - CSS
 
 ## Statistiques GitHub
 
