@@ -1,6 +1,6 @@
 # Bienvenue sur le profil de Valentin Altana
 
-![Capture d’écran 2024-02-21 à 11 54 39 copie](https://github.com/valentin-altana/valentin-altana/assets/144157026/4530b568-b763-4242-b7a1-5b7eafafda8b)
+<img width="1280" alt="Capture d’écran 2024-02-21 à 12 01 49 copie" src="https://github.com/valentin-altana/valentin-altana/assets/144157026/31b5d796-5ad0-4452-b9a6-36f007cf25b4">
 
 ## Projets
 
