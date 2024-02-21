@@ -1,5 +1,7 @@
 # Bienvenue sur le profil de Valentin Altana
 
+![Capture d’écran 2024-02-21 à 11 54 39 copie](https://github.com/valentin-altana/valentin-altana/assets/144157026/4530b568-b763-4242-b7a1-5b7eafafda8b)
+
 ## Projets
 
 - [Wallace Beats](https://github.com/valentin-altana/wallace-beats) (2024) - Site d'hébergement et d'écoute de fichiers musicaux
