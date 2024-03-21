@@ -10,7 +10,7 @@
 
 ## Advent of Code
 
-[Advent of Code](https://github.com/valentin-altana/advent-of-code)
+[Advent of Code](https://github.com/valentin-altana/advent-of-code) (JavaScript)
 
 ## Statistiques GitHub
 
