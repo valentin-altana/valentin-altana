@@ -12,6 +12,10 @@
 
 [Advent of Code](https://github.com/valentin-altana/advent-of-code) - JavaScript
 
+## Contact
+
+[LinkedIn](https://fr.linkedin.com/in/valentin-altana)
+
 ## Statistiques GitHub
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentin-altana&layout=compact)
