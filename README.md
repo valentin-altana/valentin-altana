@@ -5,7 +5,7 @@
 ## Projets
 
 - [Wallacefocus](https://github.com/valentin-altana/wallacefocus) (2024) - Site de gestion du temps de travail grâce à la technique Pomodoro (en cours de développement)
-- [Wallace Beats](https://github.com/valentin-altana/wallace-beats) (2024) - Troisième projet d'animation HTML - CSS - Démo site d'écoute de fichiers musicaux
+- [Wallace Beats](https://github.com/valentin-altana/wallace-beats) (2024) - Troisième projet d'animation HTML - CSS - Site d'écoute de fichiers musicaux (démo)
 - [Kame House](https://github.com/valentin-altana/kame-house) (2024) - Deuxième projet d'animation HTML - CSS
 - [Wallace City](https://github.com/valentin-altana/wallace-city) (2023) - Premier projet d'animation HTML - CSS
 
