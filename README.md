@@ -9,10 +9,6 @@
 - [Kame House](https://github.com/valentin-altana/kame-house) (2024) - Deuxième projet d'animation HTML - CSS
 - [Wallace City](https://github.com/valentin-altana/wallace-city) (2023) - Premier projet d'animation HTML - CSS
 
-## Advent of Code
-
-[Advent of Code](https://github.com/valentin-altana/advent-of-code) - JavaScript
-
 ## Contact
 
 [LinkedIn](https://fr.linkedin.com/in/valentin-altana)
