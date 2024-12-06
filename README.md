@@ -4,9 +4,9 @@
 
 ## Projets
 
-- [Wallace Beats](https://github.com/valentin-altana/wallace-beats) (2024) - Troisième projet d'animation HTML - CSS - Site d'écoute de fichiers musicaux (démo)
-- [Kame House](https://github.com/valentin-altana/kame-house) (2024) - Deuxième projet d'animation HTML - CSS - Reproduction de la Kame House
-- [Wallace City](https://github.com/valentin-altana/wallace-city) (2023) - Premier projet d'animation HTML - CSS - Trajet d'un métro (inspiré de Streets of Rage)
+- [Wallace Beats](https://github.com/valentin-altana/wallace-beats) (2024) - Troisième projet d'animation HTML
+- [Kame House](https://github.com/valentin-altana/kame-house) (2024) - Deuxième projet d'animation HTML
+- [Wallace City](https://github.com/valentin-altana/wallace-city) (2023) - Premier projet d'animation HTML
 
 ## Contact
 
